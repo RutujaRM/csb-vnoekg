@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://rutujarm.github.io/csb-vnoekg/static/css/main.78dce213.chunk.css",
+    "main.js": "https://rutujarm.github.io/csb-vnoekg/static/js/main.c32b0e6b.chunk.js",
+    "main.js.map": "https://rutujarm.github.io/csb-vnoekg/static/js/main.c32b0e6b.chunk.js.map",
+    "runtime-main.js": "https://rutujarm.github.io/csb-vnoekg/static/js/runtime-main.0c83cd25.js",
+    "runtime-main.js.map": "https://rutujarm.github.io/csb-vnoekg/static/js/runtime-main.0c83cd25.js.map",
+    "static/js/2.c081f347.chunk.js": "https://rutujarm.github.io/csb-vnoekg/static/js/2.c081f347.chunk.js",
+    "static/js/2.c081f347.chunk.js.map": "https://rutujarm.github.io/csb-vnoekg/static/js/2.c081f347.chunk.js.map",
+    "index.html": "https://rutujarm.github.io/csb-vnoekg/index.html",
+    "static/css/main.78dce213.chunk.css.map": "https://rutujarm.github.io/csb-vnoekg/static/css/main.78dce213.chunk.css.map",
+    "static/js/2.c081f347.chunk.js.LICENSE.txt": "https://rutujarm.github.io/csb-vnoekg/static/js/2.c081f347.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c83cd25.js",
+    "static/js/2.c081f347.chunk.js",
+    "static/css/main.78dce213.chunk.css",
+    "static/js/main.c32b0e6b.chunk.js"
+  ]
+}
